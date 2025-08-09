@@ -32,3 +32,4 @@ git clone <your-repo-url>
 cd CodeFromScratch.AI
 
 <img width="797" height="810" alt="Screenshot 2025-08-09 045507" src="https://github.com/user-attachments/assets/5b99941c-0fef-4cbd-bed5-db29767e76cb" />
+https://drive.google.com/file/d/1fL4ikYlX_S2s9lERoSqlYvzUnHsQOJ86/view?usp=drivesdk
